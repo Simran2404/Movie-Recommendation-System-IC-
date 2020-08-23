@@ -16,3 +16,6 @@ This type of recommendation systems, takes in a movie that a user currently like
 
 Collaborative filtering based recommendation:
 This algorithm at first tries to find similar users based on their activities and preferences.
+
+Here, I have used content based recommendation to predict movies. A movie that the user likes is taken as input. Then its contents are analyzed from the available dataset. I have made use of the contents - keywords, genre, cast and director from the given dataset.
+
