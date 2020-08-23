@@ -1,8 +1,8 @@
 # Movie-Reccomendation-System-IC-
+
 Created a Machine Learning Model which takes in  few movie names as input an gives out a list of recommended movies for the users.
 
 Have you ever wondered how Netflix recommends you movies to watch? 
-or How Spotify reccomends you songs?
 
 It turns out that there are three types of recommendations possible. Let's see what they are.
 
